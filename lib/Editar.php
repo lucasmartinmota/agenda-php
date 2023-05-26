@@ -57,7 +57,7 @@ if (isset($_GET['id'])) {
             <input type="text" name="nome" id="nome" value="<?php echo $registro['nome']; ?>"><br>
 
             <label for="telefone">Telefone:</label>
-            <input type="text" name="telefone" id="telefone" value="<?php echo $registro['telefone']; ?>"><br><br>
+            <input type="number" name="telefone" id="telefone" value="<?php echo $registro['telefone']; ?>"><br><br>
 
             <button type="submit">Salvar</button>
         </form></div>
