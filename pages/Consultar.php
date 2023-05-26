@@ -15,7 +15,7 @@
         </h2>
         <form method="POST">
             <div class="consulta">
-                <input placeholder="Digite um ID para consultar" type="text" name="id">
+                <input placeholder="Digite um ID para consultar" type="number" name="id">
                 <button class="cons" type="submit">Consultar</button>
             </div>
         </form>
