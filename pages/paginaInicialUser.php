@@ -17,7 +17,7 @@
     <div class="menu">
         <h2>Menu principal</h2>
         <div class="options">
-            <a href="./Consultar.php">Consultar</a>
+            <a href="./ConsultarUser.php">Consultar</a>
             <a href="./Visualizar.php">Visualizar</a>
         </div>
     </div>
