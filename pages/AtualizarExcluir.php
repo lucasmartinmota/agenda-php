@@ -38,8 +38,8 @@ function exibirTabela()
                 <td>$nome</td>
                 <td>$telefone</td>
                 <td>
-                    <a href='../lib/editar.php?id=$id'>Editar</a> ou
-                    <a href='../lib/excluir.php?id=$id'>Excluir</a>
+                    <a href='../forms/editar.php?id=$id'>Editar</a> ou
+                    <a href='../forms/excluir.php?id=$id'>Excluir</a>
                 </td>
             </tr>";
     }
